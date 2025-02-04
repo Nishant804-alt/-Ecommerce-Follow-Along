@@ -1,4 +1,4 @@
-// navigation Data
+//navigation data
 export const navItems = [
     {
       title: "Home",
