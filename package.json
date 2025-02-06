@@ -1,9 +1,17 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "name": "frontend",
-  "version": "0.1.0",
-  "private": true,
+  "name": "follow-along-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "This is an E-commerce app",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "Nishant",
+  "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
     "country-state-city": "^3.2.1",
@@ -15,12 +23,6 @@
     "react-router-dom": "^7.1.4",
     "react-scripts": "^5.0.1",
     "web-vitals": "^4.2.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -45,21 +47,4 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17"
   }
-=======
-=======
->>>>>>> setup2
-  "name": "follow-along-project",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Nishant",
-  "license": "ISC",
-  "description": "This is an E-commerce app"
-<<<<<<< HEAD
->>>>>>> 0e98325 (Miletsone3)
-=======
->>>>>>> setup2
 }
